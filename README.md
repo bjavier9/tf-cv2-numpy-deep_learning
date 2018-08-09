@@ -1,6 +1,7 @@
 # tf-cv2-numpy-deep_learning
 Mini-proyecto con tensores y reconocimiento de píxeles.
 para poder probar el proyecto se requiere instalar:
+
   1.anaconda cloud(https://anaconda.org/anaconda/python)
   2.Pygames(para python 3.6 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame)
     (pip install wheel) y luego descargado pygame‑1.9.2‑cp36‑cp36m‑win_amd64.whldesde aquí (estoy usando un Windows de 64 bits).
