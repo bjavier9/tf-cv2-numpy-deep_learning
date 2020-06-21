@@ -1,4 +1,4 @@
-# tf-cv2-numpy-deep_learning
+# tf-cv2-numpy deep_learning
 Mini-proyecto con tensores y reconocimiento de píxeles.
 para poder probar el proyecto se requiere instalar:
 
